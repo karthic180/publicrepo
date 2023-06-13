@@ -1,0 +1,5 @@
+our assignment is to make the project work. For that you need to have at 
+least a basic understanding of Git, but more experience working with 
+Docker and Nginx. The goal is to have the website up & running on port 80 
+to handle public traffic on the provided ec2 instance.
+
